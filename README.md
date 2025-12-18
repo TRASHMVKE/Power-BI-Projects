@@ -7,5 +7,5 @@ Bienvenido a mi repositorio de proyectos. Aquí documento mi aprendizaje y casos
 
 | Proyecto | Herramientas | Descripción Corta | Enlace |
 | :--- | :--- | :--- | :--- |
-| **01. TechTrend Retail Analysis** | 🛠️ SQL, Power BI, DAX | Análisis End-to-End de ventas, rentabilidad y Pareto (80/20) para una cadena de retail. | [Ver Proyecto](./01-TechTrend-Retail) |
+| **01. TechTrend Retail Analysis** | 🛠️ SQL, Power BI, DAX | Análisis End-to-End de ventas, rentabilidad y Pareto (80/20) para una cadena de retail. | [Ver Proyecto](./TechTrend Retail) |
 | **02. Próximamente...** | ... | ... | ... |
